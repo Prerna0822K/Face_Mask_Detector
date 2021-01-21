@@ -1,5 +1,8 @@
 # Face_Mask_Detector
+
+
 Data set used : https://github.com/prajnasb/observations.git    (Prajna Bhandary)
+
 Video link :  https://youtu.be/rCs0jaYHz30   (see with subtitles On)
 
 Model used: MobileNet pre-trained on ImageNet   ----> transfer learning and fine tuning ----> 2 neurons at the output layer as we have two classes [mask, non_mask]
