@@ -1,7 +1,7 @@
 # Face_Mask_Detector
 
 
-Data set used : https://github.com/prajnasb/observations.git    (Prajna Bhandary)
+Data set used : https://github.com/prajnasb/observations.git    (Special thanks to Prajna Bhandary for this dataset)
 
 Video link :  https://youtu.be/rCs0jaYHz30   (see with subtitles On)
 
